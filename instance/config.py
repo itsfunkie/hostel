@@ -1,0 +1,4 @@
+PASSWORD='1236'
+SQLALCHEMY_DATABASE_URI='mysql+mysqlconnector://root@localhost/hostelapp'
+SQLALCHEMY_TRACK_MODIFICATIONS = True
+SECRET_KEY='Hz_Vq0XyJUJ6rbo'
